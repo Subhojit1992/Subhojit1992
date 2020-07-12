@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I’m a front end developer living in India. Apart from eating my favourite foods, I always love to play with new technology. I love drawing but <a href="https://www.instagram.com/iam_not_an_artist/" target="_blank">I am not an artist</a>
+
 <!--
 **Subhojit1992/Subhojit1992** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
