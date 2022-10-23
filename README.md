@@ -1,5 +1,5 @@
 
-### <div align="center">I'm Subhojit, a full-time front-end developer and technical lead 👨‍💻 working since 2013 🚀</div>  
+### <div align="left">I'm Subhojit, a full-time front-end developer and technical lead 👨‍💻 working since 2013 🚀</div>  
   
 
 - 🔭 I’m currently working on many cool projects  
