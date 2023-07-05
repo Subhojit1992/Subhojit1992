@@ -5,9 +5,6 @@
 - 🔭 I’m currently working on many cool projects  
   
 
-- 🌱 I’m currently learning Web3 related stuff  
-  
-
 - ❓ Ask me about anything related to Front End and JS related stuff  
   
 
